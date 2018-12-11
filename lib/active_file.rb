@@ -1,0 +1,3 @@
+class ActiveFile
+
+end
